@@ -1,14 +1,21 @@
 /*  your css code here. If applicable */
 .hero{
+	
 	display:flex;
 	
 	
+	
+}
+img{
+	width:50%
 }
 .writingPart{
 	
 }
 .explore-button{
 	background-color:red;
+	padding:8px;
+	
 	
 }
 
